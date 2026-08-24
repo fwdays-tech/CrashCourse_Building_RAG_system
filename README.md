@@ -1,4 +1,4 @@
-# RAG Workshop (Day 1)
+# RAG Workshop
 
 Практичний вступ до Retrieval-Augmented Generation(пошук із підсиленням генерації, RAG):
 - embeddings(ембеддінги)
