@@ -33,10 +33,10 @@
 
 ## Відкрити у Google Colab
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NatalyUA/RAG-workshop_Day2/blob/main/rag_workshop_02_realtor_assistant.ipynb)
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fwdays-tech/CrashCourse_Building_RAG_system/blob/main/Day_2/rag_workshop_02_realtor_assistant.ipynb)
 Пряме посилання:
-https://colab.research.google.com/github/NatalyUA/RAG-workshop_Day2/blob/main/rag_workshop_02_realtor_assistant.ipynb
+[https://colab.research.google.com/github/NatalyUA/RAG-workshop_Day2/blob/main/rag_workshop_02_realtor_assistant.ipynb](https://colab.research.google.com/github/fwdays-tech/CrashCourse_Building_RAG_system/blob/main/Day_2/rag_workshop_02_realtor_assistant.ipynb)
 
 ---
 
